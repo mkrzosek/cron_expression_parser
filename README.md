@@ -9,7 +9,7 @@ This Java program parses a CRON expression and prints the parsed fields in a spe
    First, clone the Git repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/yourusername/cron-expression-parser.gi
+   git clone https://github.com/mkrzosek/cron_expression_parser.git
 
 2. **Build project:**
 
